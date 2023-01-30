@@ -1,6 +1,6 @@
 <?php
-	$domainName = "MyFeeCalculator.com";
+	$domainName = "LiveFeeCalculator.com";
 	$about_site = "Free Paypal Fee Calculator - Stripe Fee Calculator";
-	$email = "webbeastyt@gmail.com";
+	$email = "willsentjames1@gmail.com";
 	$url = "http://myfeecalculator.com";
 ?>
